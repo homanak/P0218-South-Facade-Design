@@ -1,0 +1,371 @@
+[
+  {
+    "name": "fa_title_01",
+    "text": "پرتره‌ی معماری",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_01",
+    "text": "حضوری آرام در شهرِ ساحلی.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_02",
+    "text": "هویت پروژه",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_02",
+    "text": "ظاهر بنا از رندرِ تأییدشده خوانده می‌شود؛ هندسه از نمای اندازه‌گذاری‌شده.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_03",
+    "text": "خوانشِ منبع",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_03",
+    "text": "دو سند، با دو نوع قطعیت.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_04",
+    "text": "منطقِ فرم",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_04",
+    "text": "تناسب، از تکرار و گسستِ سنجیده شکل می‌گیرد.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_05",
+    "text": "نمایِ اصلی",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_05",
+    "text": "نمایِ اندازه‌گذاری‌شده، مرجع هندسی این مجموعه است.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_06",
+    "text": "جرم و گشودگی",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_06",
+    "text": "نما، میانِ جرم و گشودگی خوانده می‌شود.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_07",
+    "text": "دستورِ قاب‌ها",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_07",
+    "text": "ریتمِ قاب‌ها، در امتدادِ خطی متغیر.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_08",
+    "text": "پوسته‌ی محافظ",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_08",
+    "text": "سطحی شیاردار به لبه‌ای عمیق و سایه‌دار می‌رسد.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_09",
+    "text": "پالتِ مصالح",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_09",
+    "text": "پالتِ دیداری از رندر؛ مشخصات محصول هنوز موجود نیست.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_10",
+    "text": "مطالعه‌ی پنجره",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_10",
+    "text": "خوانشی نزدیک‌تر از شیشه، قاب و گشودگی.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_11",
+    "text": "بالکن و لبه",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_11",
+    "text": "لبه‌ی بالکن، عمقِ متغیرِ نما را آشکار می‌کند.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_12",
+    "text": "مقطعِ لایه‌ها",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_12",
+    "text": "خوانشی مفهومی از پوسته‌ی بیرونی و لایه‌ی زیست.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_13",
+    "text": "نقطه‌ی اتصال",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_13",
+    "text": "گذارِ مصالح، در مقیاسی نزدیک.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_14",
+    "text": "آستانه‌ی شهری",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_14",
+    "text": "آستانه‌ی خیابان را نقشه ثبت می‌کند، نه رندر.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_15",
+    "text": "منطقِ فضایی",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_15",
+    "text": "عمقِ فضایی با هم‌نشینیِ لبه‌ها و سایه خوانده می‌شود.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_16",
+    "text": "نور و سطح",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_16",
+    "text": "نورِ روز، بافت و عمق را خوانا می‌کند.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_17",
+    "text": "پس‌تابِ نور",
+    "bold": true,
+    "color": "#F7F7F3",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_17",
+    "text": "جهتی برای نورِ گرم و آرام، در مرحله‌ی بررسی.",
+    "bold": false,
+    "color": "#F7F7F3",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_18",
+    "text": "دفترِ معمار",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_18",
+    "text": "نقشه معیار می‌ماند؛ اسکیس، پرسش.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_19",
+    "text": "امضای معماری",
+    "bold": true,
+    "color": "#F7F7F3",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_19",
+    "text": "یک حرکت، یک هویت.",
+    "bold": false,
+    "color": "#F7F7F3",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_title_20",
+    "text": "پایانِ روایت",
+    "bold": true,
+    "color": "#20282B",
+    "width_px": 1323,
+    "height_px": 189,
+    "font_px": 66.66666666666667
+  },
+  {
+    "name": "fa_copy_20",
+    "text": "معماری، احساسی است که باقی می‌ماند.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1087,
+    "height_px": 295,
+    "font_px": 39.583333333333336
+  },
+  {
+    "name": "fa_closing_statement",
+    "text": "معماری آن چیزی نیست که ساخته می‌شود؛ آن احساسی است که پس از رفتن، باقی می‌ماند.",
+    "bold": false,
+    "color": "#20282B",
+    "width_px": 1276,
+    "height_px": 449,
+    "font_px": 41.666666666666664
+  }
+]
